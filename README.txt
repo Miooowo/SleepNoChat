@@ -14,3 +14,5 @@ NeoForge 1.21.1 (JDK 21)
   -> neoforge-1.21.1\build\libs\sleepnochat-neoforge-1.21.1-1.0.0.jar
 
 Put the matching jar into that instance's mods folder. Do not mix loaders.
+
+License: MIT (see LICENSE).
